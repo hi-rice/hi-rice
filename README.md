@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=07D0FFF7&width=435&lines=Hi!+I'm+rice;I'm+a+backend+developer;I'm+still+studying;I+want+to+make+something+nice;Let's+develop+something+fun)](https://git.io/typing-svg)
 
 ![hi-rice GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&theme=yeblu)
+[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hi93rice)](https://github.com/2ykwang/solvedac-readme-badge)
+
 
 
 <!--
