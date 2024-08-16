@@ -3,7 +3,7 @@
 <br/>
 [![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hi_rice&theme=dark&size=medium)](https://github.com/2ykwang/solvedac-readme-badge)
 <br/>
-![hi-rice GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&theme=yeblu)
+![hi-rice GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&theme=yeblu)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-rice&layout=true&theme=yeblu)
 
 
 
