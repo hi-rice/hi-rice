@@ -1,14 +1,29 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=07D0FFF7&width=435&lines=Hi!+I'm+rice;I'm+a+backend+developer;I'm+still+studying;I+want+to+make+something+nice;Let's+develop+something+fun)](https://git.io/typing-svg)
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<br/>
 [![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hi_rice&theme=dark&size=medium)](https://github.com/2ykwang/solvedac-readme-badge)
 <br/>
 <br/>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=hi-rice&show_icons=true&theme=yeblu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-rice&show_icons=true&theme=yeblu)
 <br/>
 <br/>
-![hi-rice GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&theme=yeblu)![Top Langs]
+![hi-rice GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&theme=yeblu)
 
 
 <!--
