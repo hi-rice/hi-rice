@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhi-rice&count_bg=%23096B91&title_bg=%23021014&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40hi_rice%2Fposts&count_bg=%23096B91&title_bg=%23021014&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhi-rice&count_bg=%23096B91&title_bg=%23021014&icon=&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40hi_rice%2Fposts&count_bg=%23096B91&title_bg=%23021014&icon=&icon_color=%23E7E7E7&title=velog&edge_flat=false"/></a>
 <br/>
 ![](./profile-3d-contrib/profile-gitblock.svg)
