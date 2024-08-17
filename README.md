@@ -70,10 +70,17 @@ A8B9CC
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hi-rice&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&hide=typescript,Scilab&exclude_repo=yyysolhhh.github.io,github-slideshow,productive-box#gh-dark-mode-only"/>
 
   <p align="left">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=yyysolhhh&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000#gh-dark-mode-only"/>
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000#gh-dark-mode-only"/>
 
   
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=yyysolhhh&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&hide=typescript,Scilab&exclude_repo=yyysolhhh.github.io,github-slideshow,productive-box#gh-dark-mode-only"/>
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=hi-rice&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&hide=typescript,Scilab&exclude_repo=hi-rice.github.io,github-slideshow,productive-box#gh-dark-mode-only"/>
+</p>
+
+
+<p align="left">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&include_all_commits=true&count_private=true&theme=holi"/>
+
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=hi-rice&layout=compact&langs_count=15&card_width=320&hide=typescript,Scilab&exclude_repo=hi-rice.github.io,github-slideshow,productive-box&theme=holi"/>
 </p>
 
 
