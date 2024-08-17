@@ -38,12 +38,13 @@ A8B9CC
 [![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hi_rice&theme=dark)](https://github.com/2ykwang/solvedac-readme-badge)
 <br/>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-rice&card_width=320&show_icons=true&theme=yeblu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-rice&card_width=320&show_icons=true&theme=holi)
 <br/>
 <br/>
-![hi-rice GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rice&card_width=320&show_icons=true&theme=yeblu)
+![hi-rice GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rice&card_width=320&show_icons=true&theme=holi)
 
 
+[holi]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi
 
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000#gh-dark-mode-only"/>
 
