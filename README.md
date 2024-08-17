@@ -1,12 +1,12 @@
 
 <a href="mailto:ehdwls7700@naver.com">
-   <img src="https://img.shields.io/badge/Mail:Naver-03B61D?style=flat-square&logo=Mail:Naver&logoColorblack&link=ehdwls7700@naver.com"/>
+   <img src="https://img.shields.io/badge/Mail:Naver-03B61D?style=flat-square&logo=Mail:Naver&logoColorwhite&link=ehdwls7700@naver.com"/>
 </a>
 <a href="https://velog.io/@hi_rice">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black" alt="Velog Badge"/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog Badge"/>
 </a>
 <a href="https://www.instagram.com/hi._.rice/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=black" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 
 <br/>
