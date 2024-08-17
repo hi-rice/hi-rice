@@ -1,6 +1,6 @@
 
  <a href="mailto:ehdwls7700@naver.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ehdwls7700@naver.com"/>
+   <img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Mail&logoColor=white&link=ehdwls7700@naver.com"/>
 </a>
 <br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhi-rice&count_bg=%23096B91&title_bg=%23021014&icon=&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
