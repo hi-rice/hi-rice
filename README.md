@@ -64,23 +64,7 @@
 
 <br/>
 
-<p align="left">
-  <a href="https://solved.ac/hi_rice">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice" alt="Solved.ac hi-rice" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ehdwls7700@naver.com">
-    <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/hi._.rice/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://velog.io/@hi_rice">
-    <img src=(https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-v-letter-logo-with-green-color-and-chat-box-type-symbol-logo-tal-revivo-color-tal-revivo.png)>
-  </a>
-</p>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=@hi_rice&color=holi)](https://velog.io/@hi_rice)
 
 <!--
 **hi-rice/hi-rice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
