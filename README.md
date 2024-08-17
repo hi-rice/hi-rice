@@ -78,7 +78,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://velog.io/@hi_rice">
-    <img src="https://img.icons8.com/material-outlined/48/000000/blog.png" alt="Velog" height="30"/>
+    <img src=(https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-v-letter-logo-with-green-color-and-chat-box-type-symbol-logo-tal-revivo-color-tal-revivo.png)>
   </a>
 </p>
 
