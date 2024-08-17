@@ -36,12 +36,23 @@ A8B9CC
 <br/>
 
 [![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hi_rice&theme=dark)](https://github.com/2ykwang/solvedac-readme-badge)
+
 <br/>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-rice&card_width=320&show_icons=true&theme=holi)
 <br/>
-<br/>
+
 ![hi-rice GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rice&card_width=320&show_icons=true&theme=holi)
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-rice&card_width=320&show_icons=true&theme=holi)
+
+<a href="https://github.com/hi-rice/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hi-rice&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/hi-rice/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hi-rice&repo=convoychat" />
+</a>
 
 
 [holi]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi
