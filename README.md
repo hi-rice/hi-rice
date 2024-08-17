@@ -1,4 +1,10 @@
+
+<p align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=07D0FFF7&width=435&lines=Hi!+I'm+rice;I'm+a+backend+developer;I'm+still+studying;I+want+to+make+something+nice;Let's+develop+something+fun)](https://git.io/typing-svg)
+
+</p>
+
 <br/>
 <br/>
 
@@ -12,14 +18,14 @@
   <code><img src="https://img.shields.io/badge/-HTML-A8B9CC?style=flat&logo=HTML5"/></code>
   <code><img src="https://img.shields.io/badge/-CSS-A8B9CC?style=flat&logo=CSS3&logoColor=1572B6"/></code>
 </p>
-<p align="left">
+<p align="center">
   <code><img src="https://img.shields.io/badge/-Markdown-A8B9CC?style=flat&logo=markdown"/></code>
   <code><img src="https://img.shields.io/badge/-Django-A8B9CC?style=flat&logo=django&logoColor=092E20"/></code>
   <code><img src="https://img.shields.io/badge/-Flask-A8B9CC?style=flat&logo=flask"/></code>
   <code><img src="https://img.shields.io/badge/-FastAPI-A8B9CC?style=flat&logo=fastapi&logoColor=009688"/></code>
   <code><img src="https://img.shields.io/badge/-PostgreSQL-A8B9CC?style=flat&logo=postgresql&logoColor=4479A1"/></code>
 </p>
-<p align="left">
+<p align="center">
   <code><img src="https://img.shields.io/badge/-Docker-A8B9CC?style=flat&logo=docker&logoColor=2496ED"/></code>
   <code><img src="https://img.shields.io/badge/-Githubactions-A8B9CC?style=flat&logo=githubactions"/></code>
   <code><img src="https://img.shields.io/badge/-Git-A8B9CC?style=flat&logo=git"/></code>
