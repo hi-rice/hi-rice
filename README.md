@@ -41,48 +41,13 @@ A8B9CC
 <br/>
 <br/>
 
-<a href="https://github.com/hi-rice/github-readme-stats">
-![hi-rice GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rice&card_width=320&show_icons=true&theme=holi)
-</a>
-
-<br/>
-
-<a href="https://github.com/anuraghazra/convoychat">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-rice&card_width=320&show_icons=true&theme=holi)
-</a>
-
-<a href="https://github.com/hi-rice/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hi-rice&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/hi-rice/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hi-rice&repo=convoychat" />
-</a>
-
-<a href="https://github.com/hi-rice/convoychat">
-  <img height=150 align="center" src="(https://github-readme-stats.vercel.app/api/top-langs?username=hi-rice&layout=compact&langs_count=15&card_width=320&title_color=holi&text_color=holi&bg_color=00000000&hide=typescript,Scilab&exclude_repo=yyysolhhh.github.io,github-slideshow,productive-box#gh-dark-mode-only)" />
-</a>
-
-[holi]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi
-
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000#gh-dark-mode-only"/>
-
-  
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hi-rice&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&hide=typescript,Scilab&exclude_repo=yyysolhhh.github.io,github-slideshow,productive-box#gh-dark-mode-only"/>
-
-  <p align="left">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000#gh-dark-mode-only"/>
-
-  
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=hi-rice&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&hide=typescript,Scilab&exclude_repo=hi-rice.github.io,github-slideshow,productive-box#gh-dark-mode-only"/>
-</p>
-
-
 <p align="left">
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&include_all_commits=true&count_private=true&theme=holi"/>
 
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=hi-rice&layout=compact&langs_count=15&card_width=320&hide=typescript,Scilab&exclude_repo=hi-rice.github.io,github-slideshow,productive-box&theme=holi"/>
 </p>
 
+<br/>
 
 <!--
 **hi-rice/hi-rice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
