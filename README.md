@@ -2,11 +2,6 @@
 <br/>
 <br/>
 
-[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hi_rice&theme=dark)](https://github.com/2ykwang/solvedac-readme-badge)
-
-[![Solved.ac
-hi-rice](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice)](https://solved.ac/hi_rice)
-
 ### 🛠 &nbsp;Tech Stack
 
 <p align="center">
@@ -16,15 +11,15 @@ hi-rice](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice)](https://sol
   <code><img src="https://img.shields.io/badge/-JavaScript-A8B9CC?style=flat&logo=javascript"/></code>
   <code><img src="https://img.shields.io/badge/-HTML-A8B9CC?style=flat&logo=HTML5"/></code>
   <code><img src="https://img.shields.io/badge/-CSS-A8B9CC?style=flat&logo=CSS3&logoColor=1572B6"/></code>
-  <code><img src="https://img.shields.io/badge/-Markdown-A8B9CC?style=flat&logo=markdown"/></code>
 </p>
-<p align="center">
+<p align="left">
+  <code><img src="https://img.shields.io/badge/-Markdown-A8B9CC?style=flat&logo=markdown"/></code>
   <code><img src="https://img.shields.io/badge/-Django-A8B9CC?style=flat&logo=django&logoColor=092E20"/></code>
   <code><img src="https://img.shields.io/badge/-Flask-A8B9CC?style=flat&logo=flask"/></code>
   <code><img src="https://img.shields.io/badge/-FastAPI-A8B9CC?style=flat&logo=fastapi&logoColor=009688"/></code>
   <code><img src="https://img.shields.io/badge/-PostgreSQL-A8B9CC?style=flat&logo=postgresql&logoColor=4479A1"/></code>
 </p>
-<p align="center">
+<p align="left">
   <code><img src="https://img.shields.io/badge/-Docker-A8B9CC?style=flat&logo=docker&logoColor=2496ED"/></code>
   <code><img src="https://img.shields.io/badge/-Githubactions-A8B9CC?style=flat&logo=githubactions"/></code>
   <code><img src="https://img.shields.io/badge/-Git-A8B9CC?style=flat&logo=git"/></code>
@@ -50,6 +45,8 @@ hi-rice](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice)](https://sol
 </p>
 
 <br/>
+
+[![Solved.ac hi-rice](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice)](https://solved.ac/hi_rice)
 
 <!--
 **hi-rice/hi-rice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
