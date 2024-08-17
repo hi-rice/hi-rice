@@ -9,8 +9,6 @@
 
 <h3 align="center">🛠 &nbsp;Tech Stack</h3>
 
-### 🛠 &nbsp;Tech Stack
-
 <p align="center">
   <code><img src="https://img.shields.io/badge/-Python-A8B9CC?style=flat&logo=python"/></code>
   <code><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=A8B9CC"/></code>
