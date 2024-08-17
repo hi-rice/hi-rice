@@ -60,8 +60,15 @@
 
 <br/>
 
-[![Solved.ac hi-rice](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice)](https://solved.ac/hi_rice)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hi_rice&color=holi)](https://velog.io/@hi_rice)
+<p align="center">
+  <a href="https://solved.ac/hi_rice">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice" alt="Solved.ac hi-rice" height="100"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://velog.io/@hi_rice">
+    <img src="https://velog-readme-stats.vercel.app/api?name=hi_rice&color=holi" alt="Velog's GitHub stats" height="100"/>
+  </a>
+</p>
 
 <br/>
 
