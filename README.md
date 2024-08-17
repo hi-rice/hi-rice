@@ -62,6 +62,26 @@
 
 [![Solved.ac hi-rice](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice)](https://solved.ac/hi_rice)
 
+<br/>
+
+<p align="left">
+  <a href="https://solved.ac/hi_rice">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice" alt="Solved.ac hi-rice" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ehdwls7700@naver.com">
+    <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/your-instagram-hi._.rice/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://velog.io/@your-velog-hi_rice">
+    <img src="https://img.icons8.com/material-outlined/48/000000/blog.png" alt="Velog" height="30"/>
+  </a>
+</p>
+
 <!--
 **hi-rice/hi-rice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
