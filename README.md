@@ -61,6 +61,7 @@
 <br/>
 
 [![Solved.ac hi-rice](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice)](https://solved.ac/hi_rice)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&color=dark)](https://github.com/hi_rice/velog-readme-stats)
 
 <br/>
 
