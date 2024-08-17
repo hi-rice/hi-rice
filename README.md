@@ -62,11 +62,11 @@
 
 <p align="center">
   <a href="https://solved.ac/hi_rice">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice" alt="Solved.ac hi-rice" height="300"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice" alt="Solved.ac hi-rice" height="150"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://velog.io/@hi_rice">
-    <img src="https://velog-readme-stats.vercel.app/api?name=hi_rice&color=holi" alt="Velog's GitHub stats" height="300"/>
+    <img src="https://velog-readme-stats.vercel.app/api?name=hi_rice&color=holi" alt="Velog's GitHub stats" height="150"/>
   </a>
 </p>
 
