@@ -77,7 +77,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://velog.io/hi_rice">
+  <a href="https://velog.io/@hi_rice">
     <img src="https://img.icons8.com/material-outlined/48/000000/blog.png" alt="Velog" height="30"/>
   </a>
 </p>
