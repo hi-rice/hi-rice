@@ -1,25 +1,25 @@
 
  <a href="mailto:ehdwls7700@naver.com">
    <img src="https://img.shields.io/badge/Mail:Naver-03B61D?style=flat-square&logo=Mail:Naver&logoColor=white&link=ehdwls7700@naver.com"/>
-
 </a>
+
 <br/>
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhi-rice&count_bg=%23096B91&title_bg=%23021014&icon=&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40hi_rice%2Fposts&count_bg=%23096B91&title_bg=%23021014&icon=&icon_color=%23E7E7E7&title=velog&edge_flat=false"/></a>
+
 <br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=07D0FFF7&width=435&lines=Hi!+I'm+rice;I'm+a+backend+developer;I'm+still+studying;I+want+to+make+something+nice;Let's+develop+something+fun" alt="Typing SVG" />
 
 </p>
+
 <br/>
 <br/>
 
-<h3 align="center">🛠 &nbsp;Tech Stack</h3>
+<h4 align="center">🛠 &nbsp;Tech Stack</h4>
 
-
-                  
-  <br>
 
 <p align="center">
   <code><img src="https://img.shields.io/badge/-Python-A8B9CC?style=flat&logo=python"/></code>
@@ -50,10 +50,13 @@
   <code><img src="https://img.shields.io/badge/-IntelliJ-A8B9CC?style=flat&logo=IntelliJ-IDEA"/></code>
   <code><img src="https://img.shields.io/badge/-Postman-A8B9CC?style=flat&logo=postman"/></code>
 </p>
+
 <br/>
 <br/>
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 <br/>
 <br/>
 
@@ -80,6 +83,11 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
+<br/>
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+<br/>
 
 <!--
 **hi-rice/hi-rice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
