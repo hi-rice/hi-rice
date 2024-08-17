@@ -41,11 +41,15 @@ A8B9CC
 <br/>
 <br/>
 
+<a href="https://github.com/hi-rice/github-readme-stats">
 ![hi-rice GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rice&card_width=320&show_icons=true&theme=holi)
+</a>
 
 <br/>
 
+<a href="https://github.com/anuraghazra/convoychat">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-rice&card_width=320&show_icons=true&theme=holi)
+</a>
 
 <a href="https://github.com/hi-rice/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hi-rice&repo=github-readme-stats" />
