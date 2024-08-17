@@ -52,6 +52,16 @@ A8B9CC
 
 <br/>
 
+<p align="left" style="display: flex; align-items: center;">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&include_all_commits=true&count_private=true&theme=holi"/>
+  
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=hi-rice&layout=compact&langs_count=15&card_width=320&hide=typescript,Scilab&exclude_repo=hi-rice.github.io,github-slideshow,productive-box&theme=holi"/>
+
+  <a href="https://github.com/2ykwang/solvedac-readme-badge">
+    <img src="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hi_rice&theme=dark" alt="solved.ac badge" height=150/>
+  </a>
+</p>
+
 <!--
 **hi-rice/hi-rice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
