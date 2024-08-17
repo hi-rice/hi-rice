@@ -1,4 +1,7 @@
-
+<br/>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhi-rice&count_bg=%23096B91&title_bg=%23021014&icon=&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40hi_rice%2Fposts&count_bg=%23096B91&title_bg=%23021014&icon=&icon_color=%23E7E7E7&title=velog&edge_flat=false"/></a>
+<br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=07D0FFF7&width=435&lines=Hi!+I'm+rice;I'm+a+backend+developer;I'm+still+studying;I+want+to+make+something+nice;Let's+develop+something+fun" alt="Typing SVG" />
@@ -67,9 +70,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhi-rice&count_bg=%23096B91&title_bg=%23021014&icon=&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40hi_rice%2Fposts&count_bg=%23096B91&title_bg=%23021014&icon=&icon_color=%23E7E7E7&title=velog&edge_flat=false"/></a>
-<br/>
+
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
