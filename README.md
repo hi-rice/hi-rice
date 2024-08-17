@@ -12,7 +12,10 @@
 
 <h3 align="center">🛠 &nbsp;Tech Stack</h3>
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DHANOLA&theme=cobalt&show_icons=true&count_private=true" />
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+                  
+  <br>
 
 <p align="center">
   <code><img src="https://img.shields.io/badge/-Python-A8B9CC?style=flat&logo=python"/></code>
