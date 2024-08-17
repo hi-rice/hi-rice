@@ -48,12 +48,15 @@ A8B9CC
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-rice&card_width=320&show_icons=true&theme=holi)
 
 <a href="https://github.com/hi-rice/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hi-rice&repo=github-readme-stats" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hi-rice&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/hi-rice/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hi-rice&repo=convoychat" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hi-rice&repo=convoychat" />
 </a>
 
+<a href="https://github.com/hi-rice/convoychat">
+  <img height=150 align="center" src="(https://github-readme-stats.vercel.app/api/top-langs?username=hi-rice&layout=compact&langs_count=15&card_width=320&title_color=holi&text_color=holi&bg_color=00000000&hide=typescript,Scilab&exclude_repo=yyysolhhh.github.io,github-slideshow,productive-box#gh-dark-mode-only)" />
+</a>
 
 [holi]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi
 
