@@ -73,11 +73,11 @@
     <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/your-instagram-hi._.rice/">
+  <a href="https://www.instagram.com/hi._.rice/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://velog.io/@your-velog-hi_rice">
+  <a href="https://velog.io/hi_rice">
     <img src="https://img.icons8.com/material-outlined/48/000000/blog.png" alt="Velog" height="30"/>
   </a>
 </p>
