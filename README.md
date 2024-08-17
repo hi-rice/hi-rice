@@ -61,11 +61,11 @@
 <br/>
 
 [![Solved.ac hi-rice](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice)](https://solved.ac/hi_rice)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&color=dark)](https://github.com/hi_rice/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hi_rice&color=holi)](https://velog.io/@hi_rice)
 
 <br/>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hi_rice&color=holi)](https://velog.io/@hi_rice)
+
 
 <!--
 **hi-rice/hi-rice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
