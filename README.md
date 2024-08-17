@@ -65,7 +65,7 @@
 
 <br/>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=@hi_rice&color=holi)](https://velog.io/@hi_rice)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hi_rice&color=holi)](https://velog.io/@hi_rice)
 
 <!--
 **hi-rice/hi-rice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
