@@ -34,20 +34,21 @@ A8B9CC
   <code><img src="https://img.shields.io/badge/-Postman-A8B9CC?style=flat&logo=postman"/></code>
 </p>
 <br/>
+
 [![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=hi_rice&theme=dark)](https://github.com/2ykwang/solvedac-readme-badge)
 <br/>
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-rice&show_icons=true&theme=yeblu)
 <br/>
 <br/>
-![hi-rice GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rice&layout=compact&langs_count=15&card_width=320&show_icons=true&theme=yeblu)
+![hi-rice GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&theme=yeblu)
 
-<p align="center">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=yyysolhhh&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000#gh-dark-mode-only"/>
+
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000#gh-dark-mode-only"/>
 
   
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyysolhhh&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&hide=typescript,Scilab&exclude_repo=yyysolhhh.github.io,github-slideshow,productive-box#gh-dark-mode-only"/>
-</p>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hi-rice&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&hide=typescript,Scilab&exclude_repo=yyysolhhh.github.io,github-slideshow,productive-box#gh-dark-mode-only"/>
+
 
 <!--
 **hi-rice/hi-rice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
