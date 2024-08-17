@@ -40,7 +40,7 @@ A8B9CC
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-rice&show_icons=true&theme=yeblu)
 <br/>
 <br/>
-![hi-rice GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&theme=yeblu)
+![hi-rice GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rice&layout=compact&langs_count=15&card_width=320&show_icons=true&theme=yeblu)
 
 
 <!--
