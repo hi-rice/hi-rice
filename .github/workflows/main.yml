@@ -15,7 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          INCLUDE_ALL_LANGUAGES: true
       - name: Commit & Push
         run: |
           git config user.name hi-rice
