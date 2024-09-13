@@ -63,7 +63,7 @@
 <br/>
 
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&include_all_commits=true&count_private=true&theme=holi"/>
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=hi-rice&show_icons=true&include_all_commits=true&count_private=true&theme=holi"/>
 
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=hi-rice&layout=compact&langs_count=15&card_width=320&hide=typescript,Scilab&exclude_repo=hi-rice.github.io,github-slideshow,productive-box&theme=holi"/>
 </p>
