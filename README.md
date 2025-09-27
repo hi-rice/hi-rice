@@ -75,7 +75,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice" alt="Solved.ac hi-rice" height="150"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https//fried-rice93.tistory.com">
+  <a href="https//fried-rice93.tistory.com/">
     <img src="https://tistory-readme-stats.vercel.app/api?name=fried_rice93&color=holi" alt="Tistory's GitHub stats" height="150"/>
   </a>
 </p>
