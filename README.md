@@ -4,7 +4,7 @@
    <img src="https://img.shields.io/badge/Mail:Naver-03B61D?style=flat-square&logo=Mail:Naver&logoColorwhite&link=ehdwls7700@naver.com"/>
 </a>
 <a href="https://fried-rice93.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistiory-20C997?style=flat-square&logo=Tistory&logoColor=white" alt="Tistory Badge"/>
+    <img src="https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=Tistory&logoColor=white" alt="Tistory Badge"/>
 </a>
 <a href="https://www.instagram.com/hi._.rice/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
@@ -75,7 +75,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hi_rice" alt="Solved.ac hi-rice" height="150"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https//fried-rice93.tistory.com/">
+  <a href="https://fried-rice93.tistory.com/">
     <img src="https://tistory-readme-stats.vercel.app/api?name=fried_rice93&color=holi" alt="Tistory's GitHub stats" height="150"/>
   </a>
 </p>
