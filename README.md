@@ -76,7 +76,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://fried-rice93.tistory.com/">
-    <img src="https://tistory-readme-stats.vercel.app/api?name=fried_rice93&color=holi" alt="Tistory's GitHub stats" height="150"/>
+   <img src="https://tistory-readme-stats.vercel.app/api?name=fried-rice93&color=holi&v=1" height="150" />
   </a>
 </p>
 
